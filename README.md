@@ -31,7 +31,7 @@
 
 📫 Reach me at **amritchandrakumar123@gmail.com**
 
-🔗 Visit my portfolio: [Portfolio]
+🔗 Visit my portfolio: https://amritchandra.github.io/
 
 - <!-- Profile Views -->
 <p align="left">
