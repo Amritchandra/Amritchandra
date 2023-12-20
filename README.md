@@ -33,9 +33,9 @@
 
 🔗 Visit my portfolio: https://amritchandra.github.io/
 
-- <!-- Profile Views -->
+
 <p align="left">
-</p> -->
+</p> 
 
 <!-- Languages and Tools Section -->
 ## Languages and Tools
