@@ -29,10 +29,11 @@
 
 👨‍💻 You can check out my projects on [GitHub](https://github.com/Amritchandra)
 
+📫 Reach me at My Linkedin Profile -  https://www.linkedin.com/in/amrit-chandra-kumar-dev/
+
 📫 Reach me at **amritchandrakumar123@gmail.com**
 
-🔗 Visit my portfolio: https://amritchandra.github.io/
-
+🔗 Visit my portfolio: https://amritchandra.github.io/               
 
 <p align="left">
 </p> 
