@@ -7,7 +7,7 @@
 <!-- Social Media Badges -->
 <p align="center">
   
-  <a href="https://www.linkedin.com/in/amrit-chandra-kumar-dev/" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn">
   </a>
   
@@ -27,13 +27,13 @@
 
 🔍 Always eager to learn and explore new technologies to create innovative solutions.
 
-👨‍💻 You can check out my projects on [GitHub](https://github.com/Amritchandra)
+👨‍💻 You can check out my projects on [GitHub]()
 
-📫 Reach me at My Linkedin Profile -  https://www.linkedin.com/in/amrit-chandra-kumar-dev/
+📫 Reach me at My Linkedin Profile -  
 
-📫 Reach me at **amritchandrakumar123@gmail.com**
+📫 Reach me at ****
 
-🔗 Visit my portfolio: https://amritchandra.github.io/               
+              
 
 <p align="left">
 </p> 
